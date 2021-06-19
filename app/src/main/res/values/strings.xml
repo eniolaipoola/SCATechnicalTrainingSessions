@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+
+    <string name="welcome_message"> Hi user, you are welcome here</string>
+    <string name="login">Login</string>
+    <string name="good_morning">Good Morning!</string>
+    <string name="num_of_exercises">8 execises</string>
+</resources>
